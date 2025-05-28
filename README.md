@@ -8,6 +8,11 @@ This is a Kotlin Multiplatform (KMP) mobile application for Android and iOS that
 2. Run on Android : Open the app on Android Studio and run it.
 3. Run on iOS : Open janschip/iosApp on xcode.
 
+### Sequence diagram
+
+![](./docs/seq_diagram.png)
+
+
 ### Task pending:
 
 1. Implement attested of DCR.
